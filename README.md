@@ -1,9 +1,9 @@
 # Jogo Da Velha
 
 ## Sobre o projeto.
-Esse jogo é muito famoso, foi criado para colocar no browser do chrome. Ele é ativo quando se está sem internet e consiste em pular os objetos que estão no caminho. A velocidade do mapa sempre é um grande desafio. Vence quem chegar ao final sem levar dano.
+O jogo da velha ou jogo do galo ou três em linha é um jogo e/ou passatempo popular. É um jogo de regras extremamente simples, que não traz grandes dificuldades para seus jogadores e é facilmente aprendido.
 
-Data de conclusão: 02/05/2022
+Data de conclusão: 05/05/2022
 
 ## Ferramentas e tecnologias usadas nesse projeto.
  
@@ -18,7 +18,7 @@ function JogoDaVelha(Project) {
 
 <div align="center">
 
-<img src="#" alt="Jogo Da Velha" width="800"/>
+<img src="Projeto/img/jogodavelha.png" alt="Jogo Da Velha" width="800"/>
 
 </div>
 
